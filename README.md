@@ -31,10 +31,4 @@
 " alt="ubuntu" aling="center">
 </div><br/>
 
-Apaixonado por tecnologia, .....
-
-<br/>
-
-
-
 
